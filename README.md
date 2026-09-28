@@ -1,2 +1,7 @@
+https://malejandramartinez.github.io/psych251-ps1/
+
 # psych251-ps1
-# This a repository for ps1 of Psych 251, and it was created by Maria Alejandra Martinez
+
+This a repository for ps1 of Psych 251, and it was created by Maria Alejandra Martinez
+
+
