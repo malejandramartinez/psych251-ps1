@@ -1,5 +1,6 @@
 ```{r}
 
-summary(cars)
+print(summary(cars))
+print(class(cars))
 
 ```
