@@ -1,4 +1,6 @@
 ```{r}
+# Hello, no conflicts at all
+
 
 print(summary(cars))
 print(class(cars))
