@@ -1,5 +1,5 @@
 ```{r}
-# Hello, Conflicts
+# Hello, no conflicts at all
 
 print(summary(cars))
 print(class(cars))
