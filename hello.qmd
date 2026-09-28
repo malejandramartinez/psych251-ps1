@@ -1,8 +1,16 @@
 ```{r}
 # Hello, no conflicts at all
 
-
 print(summary(cars))
 print(class(cars))
+
+```
+```{r}
+
+library(ggplot2)
+
+ggplot(cars, aes(x = speed, y = dist)) +
+  geom_point() 
+
 
 ```
